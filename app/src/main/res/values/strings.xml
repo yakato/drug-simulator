@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drug Simulator</string>
+    <string name="alcohol">ALCOHOL</string>
+</resources>
